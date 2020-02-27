@@ -1,5 +1,7 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  YaleiShi
+
+
+**USF email address**:  yshi52@dons.usfca.edu
 
